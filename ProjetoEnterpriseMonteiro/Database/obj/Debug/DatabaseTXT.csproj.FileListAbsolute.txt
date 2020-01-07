@@ -1,0 +1,4 @@
+C:\Users\Uanderson\Desktop\ProjetoEnterpriseMonteiro\Database\bin\Debug\Database.dll
+C:\Users\Uanderson\Desktop\ProjetoEnterpriseMonteiro\Database\bin\Debug\Database.pdb
+C:\Users\Uanderson\Desktop\ProjetoEnterpriseMonteiro\Database\obj\Debug\Database.dll
+C:\Users\Uanderson\Desktop\ProjetoEnterpriseMonteiro\Database\obj\Debug\Database.pdb

@@ -1,0 +1,4 @@
+C:\Users\Uanderson\Desktop\ProjetoEnterpriseMonteiro\DatabaseSQL\bin\Debug\DatabaseSQL.dll
+C:\Users\Uanderson\Desktop\ProjetoEnterpriseMonteiro\DatabaseSQL\bin\Debug\DatabaseSQL.pdb
+C:\Users\Uanderson\Desktop\ProjetoEnterpriseMonteiro\DatabaseSQL\obj\Debug\DatabaseSQL.dll
+C:\Users\Uanderson\Desktop\ProjetoEnterpriseMonteiro\DatabaseSQL\obj\Debug\DatabaseSQL.pdb
